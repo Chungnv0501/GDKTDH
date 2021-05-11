@@ -1,0 +1,17 @@
+E:\C#\GiaoDienKTDH\GiaoDienKTDH\bin\Debug\netcoreapp3.1\GiaoDienKTDH.exe
+E:\C#\GiaoDienKTDH\GiaoDienKTDH\bin\Debug\netcoreapp3.1\GiaoDienKTDH.deps.json
+E:\C#\GiaoDienKTDH\GiaoDienKTDH\bin\Debug\netcoreapp3.1\GiaoDienKTDH.runtimeconfig.json
+E:\C#\GiaoDienKTDH\GiaoDienKTDH\bin\Debug\netcoreapp3.1\GiaoDienKTDH.runtimeconfig.dev.json
+E:\C#\GiaoDienKTDH\GiaoDienKTDH\bin\Debug\netcoreapp3.1\GiaoDienKTDH.dll
+E:\C#\GiaoDienKTDH\GiaoDienKTDH\bin\Debug\netcoreapp3.1\GiaoDienKTDH.pdb
+E:\C#\GiaoDienKTDH\GiaoDienKTDH\obj\Debug\netcoreapp3.1\GiaoDienKTDH.csprojAssemblyReference.cache
+E:\C#\GiaoDienKTDH\GiaoDienKTDH\obj\Debug\netcoreapp3.1\GiaoDienKTDH.Form1.resources
+E:\C#\GiaoDienKTDH\GiaoDienKTDH\obj\Debug\netcoreapp3.1\GiaoDienKTDH.csproj.GenerateResource.cache
+E:\C#\GiaoDienKTDH\GiaoDienKTDH\obj\Debug\netcoreapp3.1\GiaoDienKTDH.AssemblyInfoInputs.cache
+E:\C#\GiaoDienKTDH\GiaoDienKTDH\obj\Debug\netcoreapp3.1\GiaoDienKTDH.AssemblyInfo.cs
+E:\C#\GiaoDienKTDH\GiaoDienKTDH\obj\Debug\netcoreapp3.1\GiaoDienKTDH.csproj.CoreCompileInputs.cache
+E:\C#\GiaoDienKTDH\GiaoDienKTDH\obj\Debug\netcoreapp3.1\GiaoDienKTDH.dll
+E:\C#\GiaoDienKTDH\GiaoDienKTDH\obj\Debug\netcoreapp3.1\GiaoDienKTDH.pdb
+E:\C#\GiaoDienKTDH\GiaoDienKTDH\obj\Debug\netcoreapp3.1\GiaoDienKTDH.genruntimeconfig.cache
+E:\C#\GiaoDienKTDH\GiaoDienKTDH\obj\Debug\netcoreapp3.1\GiaoDienKTDH.Properties.Resources.resources
+E:\C#\GiaoDienKTDH\GiaoDienKTDH\obj\Debug\netcoreapp3.1\GiaoDienKTDH.Form2.resources
